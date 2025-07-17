@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Gangaram Parab
 
-### 💻 Frontend Developer | Tech Explorer | Learning Go
+### 💻 Frontend Developer | Tech Explorer |
 
 I'm a passionate frontend developer focused on building modern, clean, and efficient web applications with a strong foundation in open-source contributions.
 
